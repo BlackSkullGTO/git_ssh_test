@@ -1,5 +1,9 @@
 def helloworld():
     pass
 
+def byeworld():
+    print('bye world')
+
 if __name__ == '__main__':
-    pass
+    helloworld()
+    byeworld()
